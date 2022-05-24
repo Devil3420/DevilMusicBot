@@ -6,4 +6,4 @@ WORKDIR /rocks/
 COPY . /rocks/
 RUN pip3 install --upgrade pip
 RUN pip3 install -U -r requirements.txt
-CMD bash devil.sh
+CMD bash asad.sh
