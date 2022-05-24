@@ -6,5 +6,5 @@ tgcrypto
 python-dotenv
 py-tgcalls
 youtube-search-python
-git+https://github.com/pyrogram/pyrogram
+pyrogram==1.4.12
 git+https://github.com/asmsafone/downloader
