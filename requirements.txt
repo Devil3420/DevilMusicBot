@@ -6,5 +6,5 @@ tgcrypto
 python-dotenv
 py-tgcalls
 youtube-search-python
-pyrogram==1.4.12
+pyrogram==1.4.16
 git+https://github.com/asmsafone/downloader
